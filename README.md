@@ -8,9 +8,9 @@ index.html.
 
 style.css.
 
-##demo 
 
-https://naaadaa.github.io/AboutMe/.
+[Demo](https://naaadaa.github.io/AboutMe/) 
+
 
 ## Resources 
 
